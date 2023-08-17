@@ -1,0 +1,2 @@
+Say hello to new file!
+My new file was initialized!
